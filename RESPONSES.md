@@ -51,4 +51,4 @@ And can’t hurt to take a look at the metrics (you can see the graphs on their 
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: https://snowy-moon-3993.fly.dev/
+Once you've deployed your Rails app, put the link here: https://rough-shape-8481.fly.dev/
